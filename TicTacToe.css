@@ -1,0 +1,16 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    
+}
+
+table, th, td {
+    padding: 5px;
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+}
